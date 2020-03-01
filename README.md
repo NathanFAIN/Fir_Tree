@@ -1,2 +1,2 @@
 # Fir_Tree
-Epitech Project
+Epitech Project (CPool projet in graphic)
